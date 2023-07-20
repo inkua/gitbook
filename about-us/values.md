@@ -24,6 +24,6 @@ We value people as humans, we listen, we value great teams and friendship above 
 
 <summary>🔍 Transparency</summary>
 
-As a non-profit we want that our ideas, members and value to spread all over the world. So everything we do is open, free and&#x20;
+As a non-profit we want that our ideas, members and value to spread all over the world. So everything we do is open, free and created to share with the world!&#x20;
 
 </details>
