@@ -3,6 +3,9 @@
 * [👋 Welcome to InkuA!](README.md)
   * [🚀 Vision, Mission & Focus](readme/vision-mission-and-focus.md)
   * [💖 Values](readme/values.md)
+  * [❓ What is InkuA](readme/what-is-inkua.md)
+  * [🥇 What are the Benefits](readme/what-are-the-benefits.md)
+  * [🛠 How we Collaborate](readme/how-we-collaborate.md)
   * [🌍 Meet the Team!](readme/meet-the-team.md)
 
 ## Collaborating
