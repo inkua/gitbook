@@ -1,3 +1,7 @@
+---
+description: Our mission gives us purpose
+---
+
 # 🚀 Vision, Mission & Focus
 
 ## 😎 Our Vision

@@ -1,7 +1,7 @@
 ---
 description: >-
   This is our documentation page, where you can find updated information about
-  our organization, our teams and projects.
+  our organization, manuals, our teams, departments and projects.
 ---
 
 # 👋 Welcome to InkuA!

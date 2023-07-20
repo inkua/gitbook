@@ -1,6 +1,8 @@
-# 💖 Values
+---
+description: Our values drive our day to day actions
+---
 
-## Our Values
+# 💖 Values
 
 We value Cooperation, Equal Opportunities and Transparency more than anything.
 

@@ -1,3 +1,7 @@
+---
+description: Get to know our founding members and some group photos
+---
+
 # 👋 Meet the Team!
 
 ## Founder
@@ -54,7 +58,7 @@ InkuA has members in more than 25 countries and did projects all over the world.
 
 <div>
 
-<figure><img src="../.gitbook/assets/10 (2).png" alt=""><figcaption><p>Frank talking in EU Commission event in Spain</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption><p>Frank talking in EU Commission event in Spain</p></figcaption></figure>
 
  
 
