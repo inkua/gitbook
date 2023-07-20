@@ -1,12 +1,9 @@
 # Table of contents
 
 * [👋 Welcome to InkuA!](README.md)
-
-## About us
-
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus.md)
-* [💖 Values](about-us/values.md)
-* [👋 Meet the Team!](about-us/meet-the-team.md)
+  * [🚀 Vision, Mission & Focus](readme/vision-mission-and-focus.md)
+  * [💖 Values](readme/values.md)
+  * [🌍 Meet the Team!](readme/meet-the-team.md)
 
 ## Collaborating
 

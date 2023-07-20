@@ -2,7 +2,7 @@
 description: Get to know our founding members and some group photos
 ---
 
-# 👋 Meet the Team!
+# 🌍 Meet the Team!
 
 ## Founder
 
