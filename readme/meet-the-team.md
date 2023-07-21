@@ -6,7 +6,7 @@ description: Get to know our founding members and some group photos
 
 ## Founder
 
-&#x20;**Frank Escudero** - General Manager
+&#x20;**Frank Escudero** - CEO
 
 _German-Argentinean Entrepreneur and IT specialist. Participated in accelerator programs in Buenos Aires, Miami and Frankfurt, where he founded InkuA to create an impact multiplier. Loves free and open education._&#x20;
 
@@ -16,7 +16,11 @@ _German-Argentinean Entrepreneur and IT specialist. Participated in accelerator 
 
 </div>
 
-## Co-Founders
+## Co-Founders&#x20;
+
+{% hint style="warning" %}
+Waiting for Co-Founders to complete their profiles with current positions and upload pictures (If Requiered).&#x20;
+{% endhint %}
 
 **Pilot:**  Milagros Corredera, Julia Bonsignore Pesci. Fabian Nguyen.
 
