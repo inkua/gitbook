@@ -1,17 +1,22 @@
 # Table of contents
 
+## Introduction
+
 * [👋 Welcome to InkuA!](README.md)
-  * [🚀 Vision, Mission & Focus](readme/vision-mission-and-focus.md)
-  * [💖 Values](readme/values.md)
-  * [❓ What is InkuA](readme/what-is-inkua.md)
-  * [🥇 What are the Benefits](readme/what-are-the-benefits.md)
-  * [🛠 How we Collaborate](readme/how-we-collaborate.md)
-  * [🌍 Meet the Team!](readme/meet-the-team.md)
+  * [🚀 Vision, Mission & Focus](introduction/readme/vision-mission-and-focus.md)
+  * [💖 Values](introduction/readme/values.md)
+  * [❓ What is InkuA](introduction/readme/what-is-inkua.md)
+  * [🥇 What makes us unique](introduction/readme/what-makes-us-unique.md)
+  * [🛠 How we Collaborate](introduction/readme/how-we-collaborate.md)
+  * [🌍 Meet the Team!](introduction/readme/meet-the-team.md)
 
-## Collaborating
+## Projects
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [🤝 What are Projects](projects/how-we-work-together.md)
+* [Completed Projects](projects/completed-projects.md)
+* [Active Projects](projects/active-projects.md)
+* [Inactive Projects](projects/inactive-projects.md)
+* [📅 Meetings](projects/meetings.md)
 
 ## Policies
 

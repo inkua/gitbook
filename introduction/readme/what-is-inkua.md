@@ -1,4 +1,15 @@
+---
+description: >-
+  InkuA is designed to create spaces that enable inclusion and development. It
+  creates value for everyone that interacts with the organization. It can be
+  many things.
+---
+
 # ❓ What is InkuA
+
+{% hint style="danger" %}
+Content is still on review
+{% endhint %}
 
 #### Professional Development Platform:&#x20;
 
@@ -23,3 +34,9 @@
 * Social, research and environmental impact projects.&#x20;
 * Flexible peer driven or collaboration projects.
 * Pro bono opportunities.
+
+
+
+
+
+\
