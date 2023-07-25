@@ -1,10 +1,12 @@
 ---
 description: >-
   InkuA is a new kind of future-proof organic, distributed and fail-safe
-  redundant organization.
+  organization.
 ---
 
 # 🥇 What makes us unique
+
+
 
 {% hint style="danger" %}
 Content is still on review

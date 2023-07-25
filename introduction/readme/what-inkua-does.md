@@ -1,15 +1,19 @@
 ---
 description: >-
-  InkuA is designed to create spaces that enable inclusion and development. It
-  creates value for everyone that interacts with the organization. It can be
-  many things.
+  InkuA is designed to create virtual spaces that enable inclusion and
+  development.
 ---
 
-# ❓ What is InkuA
+# ❓ What InkuA does
 
-{% hint style="danger" %}
-Content is still on review
+{% hint style="info" %}
+We provide a space for members to develop skills, learn tools and earn real experience while working on projects they choose or create.&#x20;
+
+\
+**Everything for free, remotely and part time.**
 {% endhint %}
+
+We unlock development, bring ideas to life, inspire and help people. We are a lot of things and work as a:&#x20;
 
 #### Professional Development Platform:&#x20;
 
@@ -23,7 +27,7 @@ Content is still on review
 * Use modern business tools.&#x20;
 * Develop in any role or department you wish.
 
-#### Experience Leadership and Mentoring:&#x20;
+#### Academy for Leadership and Mentoring:&#x20;
 
 * Mentor projects, teams or departments.&#x20;
 * Become part of an advisory board.&#x20;

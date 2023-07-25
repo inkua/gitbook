@@ -20,7 +20,7 @@ For **long-time team members**, this space will act as a reminder and allow you 
 
 **📝 InkuA in short:** As an international NPO, we provide **spaces to develop skills, learn tools and earn real experience** while working on projects members choose or create **that have a positive impact in the world**. Everything for free, remote, flexible and part-time.
 
-
+InkuA is made by its members for its members.
 
 {% hint style="info" %}
 **How to use this guide?**

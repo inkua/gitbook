@@ -14,5 +14,5 @@ Real inclusion is only achieved when there are virtually zero barriers of entry 
 
 👥 **Work as a team:** We find like-minded people to create a great team and to collaborate on projects.&#x20;
 
-If you share our values and our passion, we want to create a positive relationship with you.&#x20;
+If you share our values and our passion, we want to collaborate with you.&#x20;
 

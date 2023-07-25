@@ -22,7 +22,7 @@ _German-Argentinean Entrepreneur and IT specialist. Participated in accelerator 
 Waiting for Co-Founders to complete their profiles with current positions and pictures.&#x20;
 {% endhint %}
 
-**Pilot:**  Milagros Corredera, Julia Bonsignore Pesci and Fabian Nguyen.
+**Pilot:** Fabian Nguyen, Milagros Corredera and Julia Bonsignore Pesci.
 
 **2022:** Huong Vo, Daniel Twisselmann.
 
