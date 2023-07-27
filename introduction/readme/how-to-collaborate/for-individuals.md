@@ -15,13 +15,10 @@ description: Our focus is on People
 
 ## Ways of collaborating
 
-Become a member
-
-Become an advisor or mentor
-
-Become a partner
-
-Become a sponsor
+* Become a member
+* Become an advisor or mentor
+* Become a partner
+* Become a sponsor
 
 ## Quick FAQ
 
@@ -34,4 +31,4 @@ Become a sponsor
 
 ## First steps
 
-Getting started guide link
+Getting started guide link&#x20;
