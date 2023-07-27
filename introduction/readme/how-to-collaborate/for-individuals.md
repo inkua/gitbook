@@ -1,5 +1,5 @@
 ---
-description: Our focus is on People
+description: Our focus is on creating value for People
 ---
 
 # 👤 For Individuals
