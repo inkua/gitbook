@@ -4,6 +4,12 @@ description: Get to know our founding members and some group photos
 
 # 👉 The Team
 
+## International Collaboration
+
+InkuA is a collective organization with the input, help and advice of thousands of volunteers, professionals, researchers, advisors, etc. from all over the word. 
+
+More than 100,000 work hours were already invested by over 3,500 members to get us to where we are. We are thankful to each and every one.
+
 ## Founder
 
 &#x20;**Frank Escudero** - CEO
