@@ -1,2 +1,2 @@
-# 🤔 Advisor Guide
+# 📑 Advisor Guide
 

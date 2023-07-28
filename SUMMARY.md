@@ -7,6 +7,7 @@
   * [👉 The Challenge](introduction/readme/the-challenge.md)
   * [💖 Values](introduction/readme/values.md)
   * [❓ What InkuA does](introduction/readme/what-inkua-does.md)
+  * [📜 Certificates and Awards](introduction/readme/certificates-and-awards.md)
   * [🥇 What makes us unique](introduction/readme/what-makes-us-unique.md)
   * [🛠 How to Collaborate](introduction/readme/how-to-collaborate/README.md)
     * [👤 For Individuals](introduction/readme/how-to-collaborate/for-individuals.md)
@@ -19,6 +20,7 @@
   * [🐣 Project Proposals](introduction/projects/project-proposals.md)
 * [🏨 Departments](introduction/departments/README.md)
   * [🌳 Organigram](introduction/departments/organigram.md)
+  * [🔑 Key Departments](introduction/departments/key-departments.md)
   * [⭐ Active Departments](introduction/departments/active-departments.md)
   * [🙂 Inactive Departments](introduction/departments/inactive-departments.md)
   * [💡 Department Proposals](introduction/departments/department-proposals.md)
@@ -35,7 +37,8 @@
       * [Brand Manual](introduction/manuals/department-specific/design/brand-manual.md)
     * [Human Resources](introduction/manuals/department-specific/human-resources/README.md)
       * [How to publish a Job Description](introduction/manuals/department-specific/human-resources/how-to-publish-a-job-description.md)
-* [Policies](introduction/policies.md)
+* [Revison](introduction/revison/README.md)
+  * [Page](introduction/revison/page.md)
 * [Page 1](introduction/page-1.md)
 
 ## Projects

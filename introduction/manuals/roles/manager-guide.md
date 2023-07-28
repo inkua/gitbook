@@ -1,2 +1,2 @@
-# 🤹 Manager Guide
+# 👓 Manager Guide
 
