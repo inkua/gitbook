@@ -6,8 +6,6 @@ description: >-
 
 # 🥇 What makes us unique
 
-
-
 {% hint style="danger" %}
 Content is still on review
 {% endhint %}
@@ -22,3 +20,6 @@ Just as leaves work together to photosynthesize and provide energy for the entir
 
 In this way, INKUA is not just a single entity, but a diverse and thriving ecosystem that allows for multiple perspectives and contributions, promoting growth and collaboration at every level.
 
+**Types of recent or active projects**&#x20;
+
+<mark style="background-color:blue;">Social</mark>      <mark style="background-color:green;">Environmental</mark>       <mark style="background-color:yellow;">Space</mark>     <mark style="background-color:orange;">Nutritional Advancement</mark>     <mark style="background-color:red;">Governance</mark>  &#x20;

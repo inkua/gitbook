@@ -1,19 +1,25 @@
 ---
-description: Our values drive our day to day actions
+description: >-
+  Our values drive our day to day actions. We value Respect, Equalitys and
+  Transparency more than anything.
 ---
 
-# 💖 Values
+# 👉 Our Values
 
-We value Cooperation, Equal Opportunities and Transparency more than anything.
+### **🤸‍♂️ **<mark style="background-color:green;">**Equal Opportunities**</mark>
 
-### **👥 Equal Opportunities**
+Empowering all through equal opportunities by levelling the playing field is part of our mission. Real inclusion means that everyone has the chance to learn and pursue their desired path and position. At InkuA we are commited to making these opportunities as accessible as possible: free, part-time and with no barriers of entry. Everyone has a role, a space and value.&#x20;
 
-Providing equal opportunities for everyone by levelling the playing field is part of our mission. Real Inclusion means that everyone should have the chance to learn and practice the position they want to achieve, meaning it should be as accessible as possible, that means free, part-time and with no barriers of entry.&#x20;
+### **✨ **<mark style="background-color:yellow;">**Transparency**</mark>
 
-### **🤝 Cooperation**
+As a non-profit we love to see our ideas, members and value to spread and spark all over the world. So everything we do is open, free and created to be shared with everyone!&#x20;
 
-We value people as humans, we listen, we value great teams and friendship above results or big projects. Everyone has a role, a space and value.&#x20;
+### 💖<mark style="background-color:purple;">Empathy</mark>
 
-### **🔍 Transparency**
+We’re proud of the community we’ve assembled to date; a collective of people that demonstrate respect and empathy, because they know how vulnerable makers are when introducing their project to the world.&#x20;
 
-As a non-profit we want that our ideas, members and value to spread all over the world. So everything we do is open, free and created to share with the world!&#x20;
+### 💯 <mark style="background-color:red;">Be Bold</mark>
+
+Every day, ambitious people launch their project or department within InkuA. We encourage experimentation and bold ideas, both in the community and our own team.
+
+##

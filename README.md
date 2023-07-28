@@ -1,32 +1,19 @@
 ---
 description: >-
-  This is our documentation page, where you can find updated information about
-  our organization, manuals, our teams, departments and projects.
+  In this documentation area, you will find the most important updated
+  information about our organization and projects, about our teams, departments 
+  and anything helpful to enable you having an impact.
 ---
 
-# 👋 Welcome to InkuA!
+# ✨ The InkuA Knowledge Base
 
-{% hint style="danger" %}
-**ALL CONTENT IN THIS GUIDE IS STILL BEING REVIEWED.**&#x20;
+## InkuA NPO - Non Profit for the Good&#x20;
 
-RELEASE TARGET IS 01/08/2023
-{% endhint %}
-
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
-
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
-
-
-
-**📝 InkuA in short:** As an international NPO, we provide **spaces to develop skills, learn tools and earn real experience** while working on projects members choose or create **that have a positive impact in the world**. Everything for free, remote, flexible and part-time.
+As an international Non Profit Organization (NPO), we provide **spaces to develop skills, learn tools and earn professional experience** while working on projects created by InkuA members, **that have a positive impact in the world**. Everything for free, remote, flexible and part-time.
 
 InkuA is made by its members for its members.
 
-{% hint style="info" %}
-**How to use this guide?**
 
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there!&#x20;
-{% endhint %}
 
 {% hint style="info" %}
 **Contributing!**

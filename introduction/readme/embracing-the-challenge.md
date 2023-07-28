@@ -1,8 +1,8 @@
 ---
-description: InkuA solves several problems
+description: InkuA solves 2 main problems
 ---
 
-# 👉 The Challenge
+# 👉 Embracing the Challenge
 
 ### Opportunities for career growth are unequal and hindered by systemic barriers
 

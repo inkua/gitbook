@@ -1,18 +1,18 @@
 ---
-description: Our mission gives us purpose
+description: Our collective vision gives us purpose and helps us bring ideas to life!
 ---
 
-# 🚀 Vision, Mission & Focus
+# 🏔 Vision | Mission | Focus
 
-## 😎 Our Vision
+## <mark style="background-color:blue;">Our Vision</mark>
 
-To be the greatest open community and virtual space for **development** and **equal opportunities**, regardless of age, gender or resources, **working together as a multiplier** for social and environmental change.
+To be the **greatest open community** and virtual space for **development** and **equal opportunities**, regardless of age, gender or resources. With united efforts, we nurture **social and environmental change**.
 
-## 🌎 Our Mission
+## <mark style="background-color:blue;">Our Mission</mark>
 
-**We** **empower, connect and inspire people** to enable professional growth by engaging the world's biggest challenges together, **unlocking potentials, creating experiences, generating value for local communities and driving positive change**.
+**We** **empower, connect and inspire people** to enable professional growth by engaging the world's biggest challenges together, **unlocking potentials, creating experiences, generating value for local communities and driving positive change.**
 
-## 🌱 Our Focus
+## <mark style="background-color:blue;">Our Focus</mark>
 
-We create virtual departments, roles and personalized remote teams that **create good teams, with respect and communication.** Then they create and work on projects or **tasks that are** **meaningful to them**.
+We create virtual departments, roles and personalized remote teams that **create great teams, with respect and enthusiasm.** Together teams create and work on projects **that are** **meaningful to them**.
 
