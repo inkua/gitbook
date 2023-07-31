@@ -4,57 +4,54 @@ description: InkuA is an educational organization
 
 # 📜 Certificates and Awards
 
-Directors can provide certifications after 6 months of activity:
+provides certifications after six months of active participation for learning and demonstrating the following skills:
 
 Internal:
 
-* Department Member: Was a valuable part of a team.
-* Assistant Secretary: Communicated and coordinated with everyone effectively.
-* Secretary: Organized and created effective teams.
-* Assistant Manager: Assisted a manager with resources and communication.
-* Project Manager: Managed a project effectively.
-* Assistant Director: Assisted the director with management and communication.
-* Department Director: Directed a successful department.
-* Area Director: Directed a department and several directors in a specific field.
-* General Director: Supported Departments on multiple fields.
-* Assistant President:&#x20;
-* Branch President: Developed local, regional or global branches effectively.&#x20;
+* Department Member: Contributed to project objectives, shared ideas, and collaborated on tasks.
+* Assistant Manager: Supported manager by managing resources, coordinating schedules, and facilitating communication.
+* Project Manager: Managed project activities from planning to delivery, addressed risks and challenges.
+* Assistant Director: Assisted director in decision-making, steered communication, and monitored project progress.
+* Department Director: Led department by managing staff and projects, optimized resources, and aligned goals with organization.
+* Area Director: Supervised a field, managed directors, and implemented best practices.
+* General Director: Oversaw multiple departments, coordinated efforts, set objectives, and monitored performance.
+* Assistant President: Supported President with coordination, scheduling, and strategic planning.
+* Branch President: Oversaw branch growth and development by implementing strategic goals.
+* General President: Represented organization, networked with external bodies, and guided organizational strategy.
 
 External:
 
-* Assistant Advisor: Helped in schedule and organizing know how.
-* Advisor: Gave technical advice and know how.
-* Assistant Mentor: Helped mentors with scheduling and communications.
-* Mentor: Gave support in organizational, emotional and guidance.
+* Assistant Advisor: Supported Advisor in organizing technical knowledge, scheduling, and stakeholder communication.
+* Advisor: Provided technical advice, expert knowledge, and strategic insights.
+* Assistant Mentor: Supported mentors in scheduling, communication, and organizing mentorship activities.
+* Mentor: Provided organizational guidance, emotional support, and personal and professional growth guidance.
 
-The Certification Levels go from: D (Basic),C (Good-have Recommendations),B (Great-Have Awards),A (Amazing-Teacher and leader), A+(Exemplary - Extraordinary Achievements)
+Certification Rank: D (Basic), C (Good - with Recommendations), B (Great - with Awards), A (Excellent - Teacher and Leader), A+ (Exemplary - Extraordinary Achievements)
 
-Managers will validate the following skills:
+Skills Certifications:
 
-* Remote Communication skills
-* Remote Team Player skills
-* Remote Empathy skills
-* Remote Reporting skills
-* Remote Work Tools skills
-* Remote Productivity skills
-* Remote IT Security skills
-* Remote Work Certificate (Alls skills in one)
+* Remote Communication and Empathy: Demonstrates effective communication and empathy in all remote interactions, promoting an understanding and considerate working environment.
+* Remote Teamwork: Collaborates positively in a remote team setting, contributing to projects and discussions constructively.
+* Remote Reporting: Showcases ability to prepare comprehensive reports, ensuring clarity and timely communication of key information in a remote context.
+* Collaboration Tools: Proficiently uses various digital tools and platforms for remote collaboration, promoting seamless teamwork.
+* Remote Productivity : Exhibits ability to effectively utilize digital tools and strategies to maintain productivity in a remote work setting.
+* IT Security: Applies key principles of IT security in a remote work context, effectively safeguarding data and digital resources.
+* Social Media Etiquette: Utilizes social media platforms in a professional and respectful manner, upholding the organization's reputation and values.
+* Inclusion & Diversity: Advocates and practices principles of inclusion and diversity, fostering a welcoming and respectful work environment for all. InkuA Remote Worker Certificate: Demonstrates proficiency in all above-mentioned skills required for effective remote work.
 
-The levels are: D (Basic),C (Good-Have Recommendations),B (Great-Have Awards),A (Amazing-Teacher and leader), A+(Exemplary - Extraordinary Achievements)
+Levels: D (Basic), C (Good - with Recommendations), B (Great - with Awards), A (Excellent - Teacher and Leader), A+ (Exemplary - Extraordinary Achievements)
 
-You can also earn awards: Members can submit applications for the review of the board here(lin). They are always published on social media and our website.
+Members can also earn awards (apply here \[link]), announced on social media and our website:
 
-* Impact Member: This member performed extraordinary or exemplary actions.
-* Impact Leader: Special recognition for members that performed as great leaders.
-* Impact Advisor: This advisor was critical to the success of the project and created extraordinary value.
-* Impact Creator: Special recognition to the creator of extraordinary content.
-* Impact Enabler(?): Recognition to a member that signed partnerships that created value for InkuA members.
-* Impact Research: This teams created an exemplary research paper and project in InkuA.
-* Impact Workshop: This team created an engaging, interesting and useful workshop.
-* Impact Marketing: This team created a marketing campaign that showcases our mission.
-* Impact Creative: This team think outside the box, and created something great and new in InkuA.
-* Imapct Project: This team created a great project or had extraordinary results.
+* Impact Member: For extraordinary actions.
+* Impact Leader: For excellent leadership.
+* Impact Advisor: For significant project contribution.
+* Impact Creator: For outstanding content creation.
+* Impact Enabler: For valuable partnership formation.
+* Impact Research: For exemplary research work.
+* Impact Workshop: For creating useful and engaging workshops.
+* Impact Marketing: For mission-driven marketing campaigns.
+* Impact Creative: For innovative contributions.
+* Impact Project: For exceptional project results.
 
-The certificates have two levels, Impact that can be weekly, Special monthly, Extraordinary yearly and Legendary by special request from our CEO. (Certificates can be upgraded)
-
-Impact Special Extraordinary Legendary
+Certificates levels: Impact (weekly), Special (monthly), Extraordinary (yearly), Legendary (CEO's special request). The same project can win multiple awards.

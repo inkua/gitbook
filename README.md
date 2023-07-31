@@ -15,6 +15,12 @@ InkuA is made by its members for its members.
 
 
 
+#### Why a German Non Profit?
+
+Being a Non Profit guarantees transparency and that all our resources are for the furthering of our mission and the benefit of our members.
+
+
+
 {% hint style="info" %}
 **Contributing!**
 
