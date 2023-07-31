@@ -7,7 +7,7 @@ description: >-
 
 # ✨ The InkuA Knowledge Base
 
-## InkuA NPO - Non Profit for the Good&#x20;
+## InkuA NPO - Non Profit for the Common Good&#x20;
 
 As an international Non Profit Organization (NPO), we provide **spaces to develop skills, learn tools and earn professional experience** while working on projects created by InkuA members, **that have a positive impact in the world**. Everything for free, remote, flexible and part-time.
 

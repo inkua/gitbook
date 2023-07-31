@@ -3,7 +3,7 @@
 ## Introduction
 
 * [✨ The InkuA Knowledge Base](README.md)
-  * [-> InkuA <-](introduction/readme/greater-than-inkua-less-than.md)
+  * [🌱 InkuA](introduction/readme/greater-than-inkua-less-than.md)
   * [🏔 Vision | Mission | Focus](introduction/readme/vision-mission-and-focus.md)
   * [👉 Embracing the Challenge](introduction/readme/embracing-the-challenge.md)
   * [👉 Our spectrum | We impact!](introduction/readme/our-spectrum-or-we-impact.md)
@@ -27,7 +27,8 @@
   * [⭐ Active Departments](introduction/departments/active-departments.md)
   * [🙂 Inactive Departments](introduction/departments/inactive-departments.md)
   * [💡 Department Proposals](introduction/departments/department-proposals.md)
-* [📕 Manuals](introduction/manuals/README.md)
+* [📕 Guides](introduction/manuals/README.md)
+  * [😄 Your First Day](introduction/manuals/your-first-day.md)
   * [Roles](introduction/manuals/roles/README.md)
     * [📗 Member Guide](introduction/manuals/roles/member-guide.md)
     * [👓 Manager Guide](introduction/manuals/roles/manager-guide.md)
@@ -43,8 +44,6 @@
 * [Revison](introduction/revison/README.md)
   * [Page](introduction/revison/page.md)
 * [Page 1](introduction/page-1.md)
-
-## Projects
 
 ## Policies
 
