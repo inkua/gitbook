@@ -43,7 +43,7 @@
       * [How to publish a Job Description](introduction/manuals/department-specific/human-resources/how-to-publish-a-job-description.md)
 * [Revison](introduction/revison/README.md)
   * [Page](introduction/revison/page.md)
-* [Page 1](introduction/page-1.md)
+* [Temporal Notes](introduction/page-1.md)
 
 ## Policies
 
