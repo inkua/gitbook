@@ -31,13 +31,13 @@ Certification Rank: D (Basic), C (Good - with Recommendations), B (Great - with 
 Skills Certifications:
 
 * Remote Communication and Empathy: Demonstrates effective communication and empathy in all remote interactions, promoting an understanding and considerate working environment.
-* Remote Teamwork: Collaborates positively in a remote team setting, contributing to projects and discussions constructively.
-* Remote Reporting: Showcases ability to prepare comprehensive reports, ensuring clarity and timely communication of key information in a remote context.
-* Collaboration Tools: Proficiently uses various digital tools and platforms for remote collaboration, promoting seamless teamwork.
-* Remote Productivity : Exhibits ability to effectively utilize digital tools and strategies to maintain productivity in a remote work setting.
-* IT Security: Applies key principles of IT security in a remote work context, effectively safeguarding data and digital resources.
-* Social Media Etiquette: Utilizes social media platforms in a professional and respectful manner, upholding the organization's reputation and values.
-* Inclusion & Diversity: Advocates and practices principles of inclusion and diversity, fostering a welcoming and respectful work environment for all. InkuA Remote Worker Certificate: Demonstrates proficiency in all above-mentioned skills required for effective remote work.
+* **Remote Teamwork**: Collaborates positively in a remote team setting, contributing to projects and discussions constructively.
+* **Remote Reporting**: Showcases ability to prepare comprehensive reports, ensuring clarity and timely communication of key information in a remote context.
+* **Collaboration Tools**: Proficiently uses various digital tools and platforms for remote collaboration, promoting seamless teamwork.
+* **Remote Productivity** : Exhibits ability to effectively utilize digital tools and strategies to maintain productivity in a remote work setting.
+* **IT Security**: Applies key principles of IT security in a remote work context, effectively safeguarding data and digital resources.
+* **Social Media Etiquette**: Utilizes social media platforms in a professional and respectful manner, upholding the organization's reputation and values.
+* **Inclusion & Diversity**: Advocates and practices principles of inclusion and diversity, fostering a welcoming and respectful work environment for all. InkuA Remote Worker Certificate: Demonstrates proficiency in all above-mentioned skills required for effective remote work.
 
 Levels: D (Basic), C (Good - with Recommendations), B (Great - with Awards), A (Excellent - Teacher and Leader), A+ (Exemplary - Extraordinary Achievements)
 

@@ -1,8 +1,7 @@
 ---
 description: >-
-  In this documentation area, you will find the most important updated
-  information about our organization and projects, about our teams, departments 
-  and anything helpful to enable you having an impact.
+  In this documentation area, you will find the most important information about
+  our organization, projects and departments.
 ---
 
 # ✨ The InkuA Knowledge Base
@@ -11,13 +10,9 @@ description: >-
 
 As an international Non Profit Organization (NPO), we provide **spaces to develop skills, learn tools and earn professional experience** while working on projects created by InkuA members, **that have a positive impact in the world**. Everything for free, remote, flexible and part-time.
 
-InkuA is made by its members for its members.
-
-
-
 #### Why a German Non Profit?
 
-Being a Non Profit guarantees transparency and that all our resources are for the furthering of our mission and the benefit of our members.
+Being a Non-profit guarantees transparency and that all our resources are for the furthering of the mission and the benefit of all the members.
 
 
 
