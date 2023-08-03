@@ -1,10 +1,10 @@
 ---
 description: >-
-  InkuA is the only open, virtual and inclusive impact platform and
-  organization.
+  InkuA is the only open, virtual and inclusive organization, community and
+  platform
 ---
 
-# 🌱 InkuA
+# 🌱 What is InkuA
 
 **We grow by supporting each other, levelling each other up, by creating impact projects we create good for ourselves and the world.**&#x20;
 

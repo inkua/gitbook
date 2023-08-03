@@ -6,15 +6,15 @@ description: Get to know our founding members and some group photos
 
 ## International Collective
 
-InkuA is a collective organization with the input, help and advice of **hudnrets of professionals, advisors, researchers, volunteers, etc. from all over the word.** 
+InkuA is a collective organization with the input, help and advice of **hundreds of professionals, advisors, researchers, volunteers, etc. from all over the world.**
 
-More than **100,000 work hours** were already invested by over **3,500 members** to get us to where we are. We are thankful to each and every one.
+More than **100,000 work hours** were already invested by over **3,500 members** to get us to where we are. We are thankful to everyone.
 
 ## Founder
 
-&#x20;**Frank Escudero** - CEO
+**Frank Escudero** - CEO
 
-_German-Argentinean Entrepreneur and IT specialist. Participated in accelerator programs in Buenos Aires, Miami and Frankfurt, where he founded InkuA as an impact multiplier. He loves free education and believes in the potential teams of determined individuals have to change the world._&#x20;
+_German-Argentinean Entrepreneur and IT specialist. Participated in accelerator programs in Buenos Aires, Miami and Frankfurt, where he founded InkuA as an impact multiplier. He believes that **everyone has unlimited potential**._
 
 <div align="left">
 
@@ -22,13 +22,13 @@ _German-Argentinean Entrepreneur and IT specialist. Participated in accelerator 
 
 </div>
 
-## Co-Founders&#x20;
+## Co-Founders
 
 {% hint style="warning" %}
-Waiting for Co-Founders to complete their profiles with current positions and pictures.&#x20;
+Updating Co-founders profiles and roles.&#x20;
 {% endhint %}
 
-**Pilot:**&#x20;
+**Pilot:**
 
 Fabian Nguyen
 
@@ -36,13 +36,13 @@ Milagros Corredera
 
 Julia Bonsignore Pesci
 
-**2022:**&#x20;
+**2022:**
 
 Huong Vo
 
 Daniel Twisselmann
 
-**2023:**&#x20;
+**2023:**
 
 Cosmina Florea
 
@@ -50,7 +50,7 @@ Iassana Minella
 
 ## Member Pictures
 
-InkuA has members in more than 25 countries and did projects all over the world. Here are some pictures:&#x20;
+InkuA has members in more than 25 countries and did projects all over the world. Here are some pictures:
 
 <div>
 

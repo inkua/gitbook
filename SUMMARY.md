@@ -2,11 +2,11 @@
 
 ## Introduction
 
-* [✨ The InkuA Knowledge Base](README.md)
-  * [🌱 InkuA](introduction/readme/greater-than-inkua-less-than.md)
-  * [🏔 Vision | Mission | Focus](introduction/readme/vision-mission-and-focus.md)
-  * [👉 Embracing the Challenge](introduction/readme/embracing-the-challenge.md)
-  * [👉 Our spectrum | We impact!](introduction/readme/our-spectrum-or-we-impact.md)
+* [✨ Knowledge Base](README.md)
+  * [🌱 What is InkuA](introduction/readme/greater-than-inkua-less-than.md)
+  * [🏔 Vision, Mission & Focus](introduction/readme/vision-mission-and-focus.md)
+  * [👉 The Challenge](introduction/readme/embracing-the-challenge.md)
+  * [👉 Our Solution](introduction/readme/our-spectrum-or-we-impact.md)
   * [👉 The Team](introduction/readme/meet-the-team.md)
   * [👉 Our Values](introduction/readme/values.md)
   * [🥇 What makes us unique](introduction/readme/what-makes-us-unique.md)
