@@ -8,6 +8,14 @@ description: >-
 
 InkuA is the most efficient and effective way to create local impact or manage projects, provide with employees with career grow, purpose and experience.&#x20;
 
+
+
+{% hint style="info" %}
+Still need to do check the "Activity proposal" [link](https://drive.google.com/file/d/1E62Bus1uzT9M1p0rFEhvSpy1hNE3ttng/view)
+
+The collaboration agreement proposal could also be relevant in this context. [link](https://docs.google.com/document/d/1T6PTxCvejCefME6SHv6d\_0tITWdWPyum1ZfpTzkBCno/edit)
+{% endhint %}
+
 ### Benefits for Organizations:&#x20;
 
 * Share your work and your company with our network.
