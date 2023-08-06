@@ -1,5 +1,5 @@
 ---
-description: Explanation on projects
+description: Projects at InkuA
 ---
 
 # 🏗 Projects

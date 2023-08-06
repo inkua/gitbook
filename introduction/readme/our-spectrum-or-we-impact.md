@@ -19,7 +19,7 @@ This document needs work!
 
 **C** - CREATE <mark style="background-color:green;">You come and bring your idea and we help you bringing it to life</mark>. We help you bringing people toegther for an exceptional project team, nor limited by location nor (profession/industry). Your idea seeds, Good things start to happen.&#x20;
 
-![](<../../../.gitbook/assets/image (1).png>)![](<../../../.gitbook/assets/image (3).png>)![](<../../../.gitbook/assets/image (7).png>)![](<../../../.gitbook/assets/image (5).png>)![](<../../../.gitbook/assets/image (2).png>)![](<../../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (7).png>)![](<../../.gitbook/assets/image (5).png>)![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (6).png>)
 
 <mark style="color:blue;">Want to grow professionally?</mark>
 

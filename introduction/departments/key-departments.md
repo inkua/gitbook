@@ -4,7 +4,7 @@ description: >-
   performing mission-critical tasks.
 ---
 
-# 🔑 Key Departments
+# Key Departments
 
 Certification department
 
