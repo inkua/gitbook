@@ -2,7 +2,7 @@
 description: InkuA is a new kind of future-proof organic and distributed organization.
 ---
 
-# 🥇 What makes us unique
+# Our Unique Approach
 
 {% hint style="danger" %}
 Content is still on review

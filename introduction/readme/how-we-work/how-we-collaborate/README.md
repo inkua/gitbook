@@ -2,7 +2,7 @@
 description: We provide Accessibility for Inclusion!
 ---
 
-# 🛠 How to Collaborate
+# Collaboration at InkuA
 
 We break barriers.
 

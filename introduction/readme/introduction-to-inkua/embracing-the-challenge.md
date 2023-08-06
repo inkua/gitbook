@@ -2,9 +2,11 @@
 description: InkuA solves 2 main problems
 ---
 
-# 👉 Embracing the Challenge
+# The Challenge
 
-### Opportunities for career growth are unequal and hindered by systemic barriers
+### Inequality!
+
+### Opportunities for career growth are unequal and hindered by systemic barriers.
 
 These Barriers are:
 

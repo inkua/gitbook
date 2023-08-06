@@ -4,7 +4,7 @@ description: >-
   combine our resources and have more reach and impact.
 ---
 
-# 🏦 For Organizations
+# Organizational Collaboration
 
 InkuA is the most efficient and effective way to create local impact or manage projects, provide with employees with career grow, purpose and experience.&#x20;
 

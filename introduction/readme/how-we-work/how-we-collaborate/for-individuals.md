@@ -2,7 +2,7 @@
 description: Our focus is on creating value for People
 ---
 
-# 👤 For Individuals
+# Individual Collaboration
 
 ### Benefits for Individuals:
 

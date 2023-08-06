@@ -4,7 +4,7 @@ description: >-
   Transparency more than anything.
 ---
 
-# 👉 Our Values
+# Core Values
 
 ### **🤸‍♂️ **<mark style="background-color:green;">**Equal Opportunities**</mark>
 
