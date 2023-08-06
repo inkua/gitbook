@@ -1,2 +1,2 @@
-# 💪 Active Projects
+# Active Projects
 

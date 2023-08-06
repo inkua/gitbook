@@ -1,2 +1,2 @@
-# ⏳ Inactive Projects
+# Inactive Projects
 

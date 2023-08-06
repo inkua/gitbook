@@ -4,7 +4,7 @@ description: >-
   platform
 ---
 
-# 🌱 What is InkuA
+# What is InkuA
 
 **We grow by supporting each other, levelling each other up, by creating impact projects we create good for ourselves and the world.**&#x20;
 

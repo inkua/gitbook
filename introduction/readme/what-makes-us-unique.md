@@ -17,7 +17,3 @@ Organic, meaning it grows like a plant, with "redundant" departments and positio
 Just as leaves work together to photosynthesize and provide energy for the entire plant, the branches of INKUA work together to support each other, sharing resources and tasks to create a sustainable and efficient system. And just as a forest evolves and adapts to its surroundings, INKUA also evolves and adapts to the changing needs of its participants, allowing for a dynamic and flexible organization.
 
 In this way, INKUA is not just a single entity, but a diverse and thriving ecosystem that allows for multiple perspectives and contributions, promoting growth and collaboration at every level.
-
-**Types of recent or active projects**&#x20;
-
-<mark style="background-color:blue;">Social</mark>      <mark style="background-color:green;">Environmental</mark>       <mark style="background-color:yellow;">Space</mark>     <mark style="background-color:orange;">Nutritional Advancement</mark>     <mark style="background-color:red;">Governance</mark>  &#x20;

@@ -1,4 +1,4 @@
-# 🌳 Understanding our Structure
+# Understanding our Structure
 
 We are working and developing the open organization model mentioned in our original white-paper (Now depreciated).
 
